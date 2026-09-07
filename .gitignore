@@ -2,3 +2,7 @@ __pycache__/
 *.pyc
 outputs/
 .venv/
+bin/
+results/
+*.mod
+*.o
